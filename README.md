@@ -1,6 +1,6 @@
 ## Oii prazer, eu sou a Ana :) 
 ### Este é o meu perfil secundário, dedicado aos meus estudos. Meu perfil oficial com meus projetos é o [anaclaraw](https://github.com/anaclaraw).
-💡 Eu adoro programação e atualmente estou estudando engenharia de software em busca de me encontrar nesse mundo tech.
+💡 Eu adoro programação e atualmente estou estudando engenharia de software em busca de evoluir no mundo tech.
 
 🔭 Posto por aqui exercícios e atividades que realizo, fique á vontade para explorar. 
 
