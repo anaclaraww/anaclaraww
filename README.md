@@ -2,7 +2,7 @@
 ### Este é o meu perfil secundário, dedicado aos meus estudos. Meu perfil oficial com meus projetos é o [anaclaraw](https://github.com/anaclaraw).
 💡 Eu adoro programação e atualmente estou estudando engenharia de software em busca de evoluir no mundo tech.
 
-🔭 Posto por aqui exercícios e atividades que realizo, fique á vontade para explorar. 
+🔭 Posto por aqui exercícios e atividades que realizo, dentro e fora da faculdade, fique á vontade para explorar. 
 
  
 <div>
